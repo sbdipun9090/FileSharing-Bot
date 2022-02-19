@@ -15,10 +15,10 @@
   </a>
   <br>
   <a href="https://github.com/CodeXBotz/File-Sharing-Bot/stargazers">
-    <img src="https://img.shields.io/github/stars/CodeXBotz/File-Sharing-Bot?style=social">
+    <img src="https://img.shields.io/github/stars/DX-Bots/FileSharing-Bot?style=social">
   </a>
   <a href="https://github.com/CodeXBotz/File-Sharing-Bot/fork">
-    <img src="https://img.shields.io/github/forks/CodeXBotz/File-Sharing-Bot?label=Fork&style=social">
+    <img src="https://img.shields.io/github/forks/DX-Bots/FileSharing-Bot?label=Fork&style=social">
   </a>  
 </p>
 
@@ -44,7 +44,7 @@ I Guess This Will Be Usefull For Many People.....😇.
 ##
 ### Installation
 #### Deploy on Heroku
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/DX-Bots/File-Sharing)</br>
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/DX-Bots/FileSharing-Bot)</br>
 <a href="https://youtu.be/LCrkRTMkmzE">
   <img src="https://img.shields.io/badge/How%20to-Deploy-red?logo=youtube" width="147">
 </a><br>
